@@ -1,0 +1,5 @@
+numpy==1.23.4
+pkbar==0.5
+torch==1.11.0+cu113
+torchvision==0.12.0+cu113
+torchvision==0.13.1
